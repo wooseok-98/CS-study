@@ -12,7 +12,7 @@
 
 ### 📖 기본 자료구조
 
-- Array
+- [Array](./data-structure/array.md)
 - Linked List
 - Stack
 - Queue
