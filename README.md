@@ -8,31 +8,103 @@
 
 ## 📂 Contents
 
-### Data Structure
+## Data Structure (자료구조)
+
+### 📖 기본 자료구조
+
+- Array
+- Linked List
 - Stack
 - Queue
-- Linked List
 - Tree
 - Graph
 
-### Algorithm
-- Time Complexity
-- Sorting
-- Search
+### 📖 응용 자료구조
 
-### Operating System
-- Process vs Thread
+- Deque
+- Heap (Priority Queue)
+- Segment Tree
+- Trie
+
+---
+
+## Algorithm (알고리즘)
+
+### 📖 알고리즘 기본
+
+- 시간복잡도 & 공간복잡도
+- 완전 탐색 (Brute Force)
+- DFS & BFS
+- 백트래킹 (Backtracking)
+- 분할 정복 (Divide and Conquer)
+- 탐욕 알고리즘 (Greedy)
+- 동적 계획법 (Dynamic Programming)
+
+### 📖 알고리즘 응용
+
+- 정렬 알고리즘
+- 그래프 알고리즘
+- 최단 경로 알고리즘
+- Union Find (Kruskal 포함)
+- Two Pointer
+- 문자열 처리 알고리즘 (KMP 포함)
+---
+
+## Operating System (운영체제)
+
+### 📖 Process & Thread
+
+- Process
+- Thread
+- Multi Process vs Multi Thread
+
+### 📖 Scheduling
+
+- Process Scheduling
 - CPU Scheduling
-- Deadlock
+
+### 📖 Synchronization
+
+- Sync vs Async
+- Process Synchronization
+
+### 📖 Memory
+
 - Memory Management
+- Virtual Memory
+- Cache
+---
 
-### Database
-- Index
+## Database (데이터베이스)
+
+### 📖 정리노트
+
+- Database 개념
 - Normalization
+- Index
 - Transaction
-- Isolation Level
+- NoSQL
 
-### Network
-- HTTP
-- TCP vs UDP
+---
+
+## Network (네트워크)
+
+### 📖 Network Basic
+
 - OSI 7 Layer
+- TCP vs UDP
+
+### 📖 TCP
+
+- TCP 3-way Handshake
+- TCP 4-way Handshake
+
+### 📖 HTTP
+
+- HTTP Method (GET, POST)
+- HTTP vs HTTPS
+
+### 📖 Web Communication
+
+- DNS
+- Web Communication Flow
