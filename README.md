@@ -15,7 +15,7 @@
 - [Array](./data-structure/array.md)
 - [Linked List](./data-structure/linked_list.md)
 - [Stack](./data-strcuture/stack.md)
-- Queue
+- [Queue](./data-strcuture/queue.md)
 - Tree
 - Graph
 
