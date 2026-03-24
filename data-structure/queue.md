@@ -64,6 +64,10 @@ print("Is Empty:", len(queue) == 0)
 - Event loop
 - 키보드 입력 버퍼
 - BFS
+    1. 시작 노드 queue 삽입
+    2. deque
+    3. 해당 노드와 연결된 노드들 queue 삽입
+    4. 과정 반복
 ---
 ## 💡 핵심 정리
 - Queue는 FIFO 구조의 선형 자료구조
